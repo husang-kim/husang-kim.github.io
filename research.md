@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Research
-description: "Research by Husang Kim. Working papers on perceived Taylor Rule and forecaster disagreement. Publications in International Finance and Journal of Asian Economics."
+description: "Research by Husang Kim. Working papers and Publications."
 permalink: /research
 ---
 

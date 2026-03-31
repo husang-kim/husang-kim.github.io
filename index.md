@@ -7,7 +7,7 @@ description: "Husang Kim is a PhD candidate in Economics at the University of Te
 <div class="intro">
 <h1>Husang Kim</h1>
 <p>
-I am a PhD candidate in Economics at <strong>the University of Texas at Austin</strong>.
+I am a PhD candidate in Economics at <strong style="color: #bf5700;">the University of Texas at Austin</strong>.
 My research interests span Business Cycles, Asset Pricing, and Expectation Formation.
 </p>
 <div class="contact-links">

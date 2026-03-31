@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Research | Husang Kim</title>
+    <meta name="description" content="Research by Husang Kim. Working papers on perceived Taylor Rule and forecaster disagreement. Publications in International Finance and Journal of Asian Economics.">
+    <meta name="keywords" content="Husang Kim, Research, Working Papers, Taylor Rule, Forecaster Disagreement, Business Cycles, Asset Pricing, Expectation Formation">
+    <meta name="author" content="Husang Kim">
+
+    <!-- Open Graph / Social -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Research | Husang Kim">
+    <meta property="og:description" content="Working papers and publications by Husang Kim, PhD candidate in Economics at UT Austin.">
+    <meta property="og:url" content="https://husang-kim.github.io/research.html">
+
+    <!-- Google Scholar -->
+    <meta name="citation_author" content="Kim, Husang">
+
+    <link rel="canonical" href="https://husang-kim.github.io/research.html">
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,300;0,400;0,600;0,700;1,400&family=Source+Serif+4:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
+
+    <style>
+        :root {
+            --text-primary: #1a1a2e;
+            --text-secondary: #4a4a6a;
+            --text-muted: #6b6b8a;
+            --accent: #b35900;
+            --accent-hover: #cc6600;
+            --bg-primary: #ffffff;
+            --bg-secondary: #f8f7f4;
+            --border: #e0ddd5;
+            --link: #1a5276;
+            --link-hover: #2471a3;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Source Sans 3', 'Segoe UI', sans-serif;
+            color: var(--text-primary);
+            background-color: var(--bg-primary);
+            line-height: 1.7;
+            font-size: 17px;
+        }
+
+        header {
+            background: var(--bg-primary);
+            border-bottom: 1px solid var(--border);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        .header-inner {
+            max-width: 820px;
+            margin: 0 auto;
+            padding: 18px 30px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .site-name {
+            font-family: 'Source Serif 4', Georgia, serif;
+            font-size: 1.35rem;
+            font-weight: 700;
+            color: var(--text-primary);
+            text-decoration: none;
+        }
+
+        nav a {
+            color: var(--text-secondary);
+            text-decoration: none;
+            margin-left: 28px;
+            font-size: 0.95rem;
+            font-weight: 400;
+            transition: color 0.2s;
+        }
+
+        nav a:hover,
+        nav a.active {
+            color: var(--accent);
+        }
+
+        main {
+            max-width: 820px;
+            margin: 0 auto;
+            padding: 50px 30px 80px;
+        }
+
+        .page-title {
+            font-family: 'Source Serif 4', Georgia, serif;
+            font-size: 2.2rem;
+            font-weight: 700;
+            margin-bottom: 40px;
+            color: var(--text-primary);
+        }
+
+        section {
+            margin-bottom: 50px;
+        }
+
+        section h2 {
+            font-family: 'Source Serif 4', Georgia, serif;
+            font-size: 1.45rem;
+            font-weight: 700;
+            color: var(--text-primary);
+            margin-bottom: 24px;
+            padding-bottom: 8px;
+            border-bottom: 2px solid var(--accent);
+            display: inline-block;
+        }
+
+        .paper {
+            margin-bottom: 26px;
+            padding-left: 0;
+        }
+
+        .paper-title {
+            font-weight: 600;
+            font-size: 1.05rem;
+            color: var(--text-primary);
+            line-height: 1.5;
+        }
+
+        .paper-details {
+            color: var(--text-muted);
+            font-size: 0.94rem;
+            margin-top: 4px;
+            line-height: 1.6;
+        }
+
+        .paper-details a {
+            color: var(--link);
+            text-decoration: none;
+            border-bottom: 1px solid transparent;
+            transition: border-color 0.2s, color 0.2s;
+        }
+
+        .paper-details a:hover {
+            color: var(--link-hover);
+            border-bottom-color: var(--link-hover);
+        }
+
+        .paper-details em {
+            font-style: italic;
+        }
+
+        .paper-links {
+            margin-top: 6px;
+        }
+
+        .paper-links a {
+            display: inline-block;
+            color: var(--link);
+            text-decoration: none;
+            font-size: 0.88rem;
+            font-weight: 600;
+            margin-right: 14px;
+            padding: 2px 0;
+            border-bottom: 1px dashed var(--link);
+            transition: color 0.2s, border-color 0.2s;
+        }
+
+        .paper-links a:hover {
+            color: var(--link-hover);
+            border-bottom-color: var(--link-hover);
+        }
+
+        footer {
+            max-width: 820px;
+            margin: 0 auto;
+            padding: 30px 30px;
+            border-top: 1px solid var(--border);
+            color: var(--text-muted);
+            font-size: 0.85rem;
+            text-align: center;
+        }
+
+        @media (max-width: 600px) {
+            .header-inner {
+                flex-direction: column;
+                gap: 10px;
+            }
+
+            nav a {
+                margin-left: 0;
+                margin-right: 18px;
+            }
+
+            .page-title {
+                font-size: 1.7rem;
+            }
+
+            main {
+                padding: 30px 20px 60px;
+            }
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <div class="header-inner">
+        <a href="index.html" class="site-name">Husang Kim</a>
+        <nav>
+            <a href="index.html">Main</a>
+            <a href="research.html" class="active">Research</a>
+        </nav>
+    </div>
+</header>
+
+<main>
+    <h1 class="page-title">Research</h1>
+
+    <!-- Working Papers -->
+    <section>
+        <h2>Working Papers</h2>
+
+        <div class="paper">
+            <div class="paper-title">Beyond the Actual: The Macroeconomic Implications of the Perceived Taylor Rule</div>
+            <div class="paper-links">
+                <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6171027" target="_blank">SSRN</a>
+            </div>
+        </div>
+
+        <div class="paper">
+            <div class="paper-title">Quantifying the Sources of Forecaster Disagreement</div>
+            <div class="paper-links">
+                <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4659361" target="_blank">SSRN</a>
+                <a href="https://drive.google.com/file/d/1vILOGFXFOrylRDqUM-zIDRnYwvvwZ2DW/view?usp=sharing" target="_blank">Slides</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Pre-Ph.D. Publications -->
+    <section>
+        <h2>Pre-Ph.D. Publications</h2>
+
+        <div class="paper">
+            <div class="paper-title">Inflation Target Adjustments: Does an Improvement in Institutional or Economic Preconditions Matter?</div>
+            <div class="paper-details">
+                with <a href="https://dooyeoncho.github.io/pages/research.html" target="_blank">Dooyeon Cho</a> &mdash;
+                <em>International Finance</em> 27.2 (2024): 129&ndash;179.
+            </div>
+        </div>
+
+        <div class="paper">
+            <div class="paper-title">Macroeconomic Effects of Uncertainty Shocks: Evidence from Korea</div>
+            <div class="paper-details">
+                with <a href="https://dooyeoncho.github.io/pages/research.html" target="_blank">Dooyeon Cho</a> &mdash;
+                <em>Journal of Asian Economics</em> 84, 101571, 2023.
+                [<a href="https://dooyeoncho.github.io/pages/new_korean_epu_index.html" target="_blank">New Korea EPU Index</a>]
+            </div>
+        </div>
+    </section>
+</main>
+
+<footer>
+    &copy; 2026 Husang Kim
+</footer>
+
+</body>
+</html>

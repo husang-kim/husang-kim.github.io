@@ -1,80 +1,73 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-      <meta charset="UTF-8">
-      <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <title>{{ page.title }} | {{ site.title }}</title>
-    <meta name="description" content="{{ page.description | default: site.description }}">
-  
-    <!-- Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-44MLS56RRZ"></script>
-    <script>
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-          gtag('config', 'G-44MLS56RRZ');
-    </script>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <meta name="description" content="{{ page.description | default: site.description }}">
 
-      <style>
-            * { margin: 0; padding: 0; box-sizing: border-box; }
-            body {
-                    font-family: 'Georgia', 'Times New Roman', serif;
-                    line-height: 1.7;
-                    color: #333;
-                    background: #fff;
-                    max-width: 780px;
-                    margin: 0 auto;
-                    padding: 2rem 1.5rem;
-            }
-            nav {
-                    display: flex;
-                    gap: 1.5rem;
-                    padding-bottom: 1rem;
-                    margin-bottom: 2rem;
-                    border-bottom: 2px solid #bf5700;
-            }
-            nav a { text-decoration: none; color: #555; font-size: 1.05rem; }
-            nav a:hover, nav a.active { color: #bf5700; }
-            h1 { font-size: 1.8rem; margin-bottom: 0.5rem; }
-            h2 { font-size: 1.3rem; margin-top: 1.8rem; margin-bottom: 0.8rem; color: #333; }
-            a { color: #bf5700; }
-            a:hover { color: #a04600; }
-            .intro { margin-bottom: 2rem; }
-            .contact-links { margin-top: 1rem; }
-            .contact-links a { margin-right: 0.3rem; }
-            .separator { margin: 0 0.3rem; color: #999; }
-            .paper { margin-bottom: 1.2rem; }
-            .paper-title { font-weight: bold; }
-            .paper-details { margin-top: 0.2rem; color: #555; }
-            .paper-links { margin-top: 0.3rem; }
-            .paper-links a { font-size: 0.9rem; margin-right: 0.8rem; }
-            .page-title { margin-bottom: 1rem; }
-            footer {
-                    margin-top: 3rem;
-                    padding-top: 1rem;
-                    border-top: 1px solid #ddd;
-                    font-size: 0.85rem;
-                    color: #999;
-            }
-          </style>
-  </head>
-  <body>
-      <nav>
-            <a href="{{ '/' | relative_url }}" {% if page.url == '/' %}class="active"{% endif %}>Home</a>a>
-            <a href="{{ '/research' | relative_url }}" {% if page.url == '/research' %}class="active"{% endif %}>Research</a>a>
-      </nav>
-      <main>
-            {{ content }}
-      </main>
-      <footer>
-            &copy; {{ 'now' | date: "%Y" }} {{ site.title }}
-      </footer>
-  </body>
-</html>html>
-      </footer>
-      </main>
-      </nav>
-  </body>
-      </style>
-    </script></title>
-  </head>
+  <!-- Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-44MLS56RRZ"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-44MLS56RRZ');
+  </script>
+
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: 'Georgia', 'Times New Roman', serif;
+      line-height: 1.7;
+      color: #333;
+      background: #fff;
+      max-width: 780px;
+      margin: 0 auto;
+      padding: 2rem 1.5rem;
+    }
+    nav {
+      display: flex;
+      gap: 1.5rem;
+      padding-bottom: 1rem;
+      margin-bottom: 2rem;
+      border-bottom: 2px solid #bf5700;
+    }
+    nav a { text-decoration: none; color: #555; font-size: 1.05rem; }
+    nav a:hover, nav a.active { color: #bf5700; }
+    h1 { font-size: 1.8rem; margin-bottom: 0.5rem; }
+    h2 { font-size: 1.3rem; margin-top: 1.8rem; margin-bottom: 0.8rem; color: #333; }
+    a { color: #bf5700; }
+    a:hover { color: #a04600; }
+    .intro { margin-bottom: 2rem; }
+    .contact-links { margin-top: 1rem; }
+    .contact-links a { margin-right: 0.3rem; }
+    .separator { margin: 0 0.3rem; color: #999; }
+    .paper { margin-bottom: 1.2rem; }
+    .paper-title { font-weight: bold; }
+    .paper-details { margin-top: 0.2rem; color: #555; }
+    .paper-links { margin-top: 0.3rem; }
+    .paper-links a { font-size: 0.9rem; margin-right: 0.8rem; }
+    .page-title { margin-bottom: 1rem; }
+    footer {
+      margin-top: 3rem;
+      padding-top: 1rem;
+      border-top: 1px solid #ddd;
+      font-size: 0.85rem;
+      color: #999;
+    }
+  </style>
+</head>
+<body>
+  <nav>
+    <a href="{{ '/' | relative_url }}" {% if page.url == '/' %}class="active"{% endif %}>Home</a>
+    <a href="{{ '/research' | relative_url }}" {% if page.url == '/research' %}class="active"{% endif %}>Research</a>
+  </nav>
+  <main>
+    {{ content }}
+  </main>
+  <footer>
+    &copy; {{ 'now' | date: "%Y" }} {{ site.title }}
+  </footer>
+</body>
+</html>

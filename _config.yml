@@ -4,4 +4,8 @@ url: "https://husang-kim.github.io"
 baseurl: ""
 
 # Build settings
+
+# Disable default theme so custom _layouts/default.html is used
+theme: null
+plugins: []
 markdown: kramdown

@@ -5,8 +5,6 @@ description: "Research by Husang Kim. Working papers and Publications."
 permalink: /research
 ---
 
-<h1 class="page-title">Research</h1>
-
 ## Working Papers
 
 <div class="paper">

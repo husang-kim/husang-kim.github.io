@@ -8,7 +8,7 @@ permalink: /research
 ## Working Papers
 
 <div class="paper">
-<div class="paper-title">1. Beyond the Actual: The Macroeconomic Implications of the Perceived Taylor Rule</div>
+<div class="paper-title">1. Perceived Monetary Policy Rule: Identification and Macroeconomic Implications </div>
 <div class="paper-links">
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6171027" target="_blank">SSRN</a>
 </div>

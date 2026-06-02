@@ -9,11 +9,11 @@ permalink: /research
 
 <div class="paper">
 <div class="paper-title">1. Perceived Monetary Policy Rule: Identification and Macroeconomic Implications </div>
+<div class="paper-note"> * This supersedes &#8220;Beyond the Actual: The Macroeconomic Implications of the Perceived Taylor Rule.&#8221;</div>
 <div class="paper-links">
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6171027" target="_blank">SSRN</a>
 <a href="https://www.dropbox.com/scl/fi/6f192zh1cmmioju5s3do7/HSK_PerceivedRule_Poster.pdf?rlkey=y6dcv28qudvp09nebag81hv32&st=wf9rzgmr&dl=0" target="_blank">Poster</a>
 </div>
-<div class="paper-note">This supersedes &#8220;Beyond the Actual: The Macroeconomic Implications of the Perceived Taylor Rule.&#8221;</div>
 </div>
 
 <div class="paper">

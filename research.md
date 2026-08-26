@@ -8,7 +8,7 @@ permalink: /research
 ## Working Papers
 
 <div class="paper">
-<div class="paper-title">1. Perceived Monetary Policy Rule: Identification and Macroeconomic Implications </div>
+<div class="paper-title">1. Perceived Monetary Policy Rule: Identification and Macroeconomic Implications</div>
 <div class="paper-note"> * This supersedes &#8220;Beyond the Actual: The Macroeconomic Implications of the Perceived Taylor Rule.&#8221;</div>
 <div class="paper-links">
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6171027" target="_blank">SSRN</a>
@@ -30,14 +30,14 @@ permalink: /research
 ## Pre-Ph.D. Publications
 
 <div class="paper">
-<div class="paper-title">1. Inflation Target Adjustments: Does an Improvement in Institutional or Economic Preconditions Matter? with <a href="https://dooyeoncho.github.io/pages/research.html" target="_blank">Dooyeon Cho</a></div>
+<div class="paper-title">1. Inflation Target Adjustments: Does an Improvement in Institutional or Economic Preconditions Matter? <span class="coauthors">with <a href="https://dooyeoncho.github.io/pages/research.html" target="_blank">Dooyeon Cho</a></span></div>
 <div class="paper-details">
 <em>International Finance</em> 27.2 (2024): 129&ndash;179.
 </div>
 </div>
 
 <div class="paper">
-<div class="paper-title">2. Macroeconomic Effects of Uncertainty Shocks: Evidence from Korea with <a href="https://dooyeoncho.github.io/pages/research.html" target="_blank">Dooyeon Cho</a></div>
+<div class="paper-title">2. Macroeconomic Effects of Uncertainty Shocks: Evidence from Korea <span class="coauthors">with <a href="https://dooyeoncho.github.io/pages/research.html" target="_blank">Dooyeon Cho</a></span></div>
 <div class="paper-details">
 <em>Journal of Asian Economics</em> 84, 101571, 2023. [<a href="https://dooyeoncho.github.io/pages/new_korean_epu_index.html" target="_blank">New Korea EPU Index</a>]
 </div>

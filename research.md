@@ -19,7 +19,7 @@ permalink: /research
 
 <div class="paper">
 <div class="paper-title">2. Quantifying the Sources of Forecaster Disagreement</div>
-<div class="paper-note"> * R&R, <em>Journal of Economic Dynamics and Control</em>.</div>
+<div class="paper-note"> * <em>R&R, Journal of Economic Dynamics and Control</em>.</div>
 <div class="paper-note"> * <em>Best Second-Year Paper Award</em>.</div>
 <div class="paper-links">
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4659361" target="_blank">SSRN</a>

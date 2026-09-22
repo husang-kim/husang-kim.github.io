@@ -12,6 +12,7 @@ permalink: /research
 <div class="paper-note"> * This supersedes &#8220;Beyond the Actual: The Macroeconomic Implications of the Perceived Taylor Rule.&#8221;</div>
 <div class="paper-links">
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6171027" target="_blank">SSRN</a>
+<a href="/files/HSK_PerceivedRule.pdf" target="_blank">Working Paper</a>
 <a href="/files/HSK_PerceivedRule_Poster.pdf" target="_blank">Poster</a>
 <a href="/files/HSK_PerceivedRule_Slides.pdf" target="_blank">Slides</a>
 </div>

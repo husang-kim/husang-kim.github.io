@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home
-description: "Husang Kim is a PhD candidate in Economics at the University of Texas at Austin. Research interests: Business Cycles, Asset Pricing, Expectation Formation."
+description: "Husang Kim is a PhD candidate in Economics at The University of Texas at Austin. Research interests: Business Cycles, Asset Pricing, Expectation Formation."
 ---
 
 <div class="intro">

@@ -19,13 +19,23 @@ permalink: /research
 </div>
 
 <div class="paper">
-<div class="paper-title">2. Quantifying the Sources of Forecaster Disagreement</div>
+<div class="paper-title">2. The Main Monetary Policy Shock <span class="coauthors">with <a href="https://www.christopheboehm.com/" target="_blank">Christoph Boehm</a> and <a href="https://www.niklaskroner.com/" target="_blank">Niklas Kroner</a></span></div>
+<div class="paper-note"> * <em>Draft coming soon!</em></div>
+</div>
+
+<div class="paper">
+<div class="paper-title">3. Quantifying the Sources of Forecaster Disagreement</div>
 <div class="paper-note"> * <em>R&R, Journal of Economic Dynamics and Control</em>.</div>
 <div class="paper-note"> * <em>Best Second-Year Paper Award</em>.</div>
 <div class="paper-links">
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4659361" target="_blank">SSRN</a>
 <a href="https://drive.google.com/file/d/1vILOGFXFOrylRDqUM-zIDRnYwvvwZ2DW/view?usp=sharing" target="_blank">Slides</a>
 </div>
+</div>
+
+<div class="paper">
+<div class="paper-title">4. Estimating the Sign and Magnitude of the Inflation Risk Premia <span class="coauthors">with <a href="https://www.mccombs.utexas.edu/faculty-and-research/faculty-directory/profile/?username=eironn" target="_blank">Ehud Ronn</a></span></div>
+<div class="paper-note"> * <em>R&amp;R, Journal of International Money and Finance</em>.</div>
 </div>
 
 ## Pre-Ph.D. Publications

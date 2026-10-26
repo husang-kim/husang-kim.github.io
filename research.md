@@ -36,6 +36,8 @@ permalink: /research
 <div class="paper">
 <div class="paper-title">4. Estimating the Sign and Magnitude of the Inflation Risk Premia <span class="coauthors">with <a href="https://www.mccombs.utexas.edu/faculty-and-research/faculty-directory/profile/?username=eironn" target="_blank">Ehud Ronn</a></span></div>
 <div class="paper-note"> * <em>R&amp;R, Journal of International Money and Finance</em>.</div>
+<div class="paper-links">
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6100342" target="_blank">SSRN</a>
 </div>
 
 ## Pre-Ph.D. Publications

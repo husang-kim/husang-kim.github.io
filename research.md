@@ -39,6 +39,7 @@ permalink: /research
 <div class="paper-links">
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6100342" target="_blank">SSRN</a>
 </div>
+</div>
 
 ## Pre-Ph.D. Publications
 

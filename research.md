@@ -29,6 +29,7 @@ permalink: /research
 <div class="paper-note"> * <em>Best Second-Year Paper Award</em>.</div>
 <div class="paper-links">
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4659361" target="_blank">SSRN</a>
+<a href="/files/HSK_Disagreement.pdf" target="_blank">Working Paper</a>
 <a href="https://drive.google.com/file/d/1vILOGFXFOrylRDqUM-zIDRnYwvvwZ2DW/view?usp=sharing" target="_blank">Slides</a>
 </div>
 </div>

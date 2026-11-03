@@ -20,6 +20,7 @@ permalink: /research
 
 <div class="paper">
 <div class="paper-title">2. The Main Monetary Policy Shock <span class="coauthors">with <a href="https://www.christopheboehm.com/" target="_blank">Christoph Boehm</a> and <a href="https://www.niklaskroner.com/" target="_blank">Niklas Kroner</a></span></div>
+<div class="paper-note"> * Submitted.&#8221;</div>
 <div class="paper-links">
 <a href="/files/HSK_MMP.pdf" target="_blank">Working Paper</a>
 </div>

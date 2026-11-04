@@ -24,6 +24,7 @@ permalink: /research
 <div class="paper-note"> * <em>Submitted</em>.</div>
 <div class="paper-links">
 <a href="/files/HSK_MMP.pdf" target="_blank">Working Paper</a>
+<a href = "https://www.ifo.de/en/cesifo/publications/2026/working-paper/main-monetary-policy-shock" target="_blank">CESifo Working Paper</a>   
 </div>
 </div>
 
